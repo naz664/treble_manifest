@@ -12,5 +12,5 @@
 <project path="vendor/lptools" name="vendor_lptools" remote="phh" revision="master" />
 
 <project path="vendor/magisk" name="vendor_magisk" remote="phh" revision="android-10.0" />
-
+<project path="packages/apps/QcRilAm" name="packages_apps_QcRilAm" remote="naz" revision="master" />
 </manifest>
