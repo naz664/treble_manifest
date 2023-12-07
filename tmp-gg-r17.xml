@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project path="external/mockito-kotlin" name="platform/external/mockito-kotlin" remote="aosp" revision="b0a025998405b7af4a64dd04ffdf6630e678658f" />
+</manifest>
