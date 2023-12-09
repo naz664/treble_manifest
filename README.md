@@ -5,7 +5,7 @@ Manifest for treble gsi's.
 
 clone this repo in rom source.  
     
-    git clone https://github.com/naz664/treble_manifest.git .repo/local_manifests  -b 13
+    git clone https://github.com/naz664/treble_manifest.git .repo/local_manifests  -b 14
   
 
 ------------------------------------------------------

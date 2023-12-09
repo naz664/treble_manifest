@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-  <remote name="gitlab" fetch="https://gitlab.com/" />
-  <project name="arrowos-project/android_vendor_gapps" path="vendor/gapps" remote="gitlab" revision="arrow-13.0" />
-</manifest>
