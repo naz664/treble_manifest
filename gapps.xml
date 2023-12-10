@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="gitlab" fetch="https://gitlab.com" />
+  <project name="ponces/vendor_gapps" path="vendor/gapps" remote="gitlab" revision="android-14.0" clone-depth="1" />
+</manifest>
